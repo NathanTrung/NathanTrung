@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Computer Science student at Swinburne University of Technology, graduating in July 2025. 
+I am a Computer Science graduate from Swinburne University of Technology, having graduated in December 2025. 
 I am passionate about learning new technologies and expanding my skill set in various areas of software development. 
 Here’s a brief overview of my expertise and interests:
 
